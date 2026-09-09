@@ -9,23 +9,23 @@ A content-based Movie Recommender System built with Python and Machine Learning 
 
 ### 🏠 Home & Movie Selection
 
-![Movie Recommender Home](assets/01-home.png)
+![Movie Recommender Home](assets/home.png)
 
 ### 🎯 Movie Recommendations
 
-![Movie Recommendations](assets/02-recommendations.png)
+![Movie Recommendations](assets/Recommendation.png)
 
 ### 🎬 Movie Details
 
-![Movie Details](assets/03-movie-details.png)
+![Movie Details](assets/movie-detail.png)
 
 ### 🧠 How It Works
 
-![How It Works](assets/04-how-it-works.png)
+![How It Works](assets/how-it-works.png)
 
 ### 🛠️ About the Project
 
-![About the Project](assets/05-about-project.png)
+![About the Project](assets/about-project.png)
 
 ## Features
 
