@@ -1,5 +1,9 @@
 # Movie Recommender System
 
+### 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge)](https://aks870-movies-recommender-system-app-ao5rb2.streamlit.app/)
+
 A content-based Movie Recommender System built with Python and Machine Learning that recommends movies based on the similarity of their genres, keywords, cast, crew, and overview.
 
 ## Features
